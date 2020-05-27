@@ -1,5 +1,5 @@
 {
-    "name": "ab-test-react-npm-publish",
+    "name": "ab-test-react-npm-publish2",
     "version": "1.0.0",
     "description": "React Boilerplate Component for npm",
     "main": "./lib/BoilerplateComponent.js",
@@ -11,6 +11,10 @@
         "prop-types": "^15.6.0",
         "react": "^16.0.0",
         "react-dom": "^16.0.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/archandupatla/ab-test-publish.git"
     },
     "devDependencies": {
         "babel-core": "^6.21.0",

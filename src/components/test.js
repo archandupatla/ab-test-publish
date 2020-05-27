@@ -5,3 +5,5 @@ const Test = ()=>(
         This is from child component
     </div>
 )
+
+export default Test;
